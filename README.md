@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Stephane 😃</h1>
-<h3 align="center">Fullstack Ruby on Rails Web Developer | Lead Teacher & Batch Manager @ Le Wagon Montreal</h3>
+<h3 align="center">Fullstack Ruby on Rails Web Developer | Lead Teacher & Program Manager @ Le Wagon Montreal</h3>
 
 - Lead teacher at Le Wagon Montreal for the last 4 years, teaching Ruby, Ruby on Rails (v5, 6 & 7), OPP, JavaScript, Stimulus
 - Tech lead and project manager (Agile) on over 80 student web application projects built on Ruby on Rails, and integrating Webpack, PostgresQL, ActiveRecord, Action Cable, RSpec, and deployed on Heroku
