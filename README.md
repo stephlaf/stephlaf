@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Stephane 😃</h1>
-<h3 align="center">Fullstack Ruby on Rails Web Developer | Lead Teacher & Program Manager @ Le Wagon Montreal</h3>
+<h3 align="center">Fullstack Ruby on Rails Web Developer</h3>
+<h3 align="center">Back End Developer at <a href="https://www.petal-health.com/fr-ca/" target="blank">Petal</a></h3>
 
-- Lead teacher at Le Wagon Montreal for the last 4 years, teaching Ruby, Ruby on Rails (v5, 6 & 7), OPP, JavaScript, Stimulus
+- Former lead teacher at Le Wagon Montreal for 4 years, teaching Ruby, Ruby on Rails (v5, 6 & 7), OPP, JavaScript, Stimulus
 - Tech lead and project manager (Agile) on over 80 student web application projects built on Ruby on Rails, and integrating Webpack, PostgresQL, ActiveRecord, Action Cable, RSpec, and deployed on Heroku
 - Coaching and mentoring the team of teachers and TAs at Le Wagon Montreal
 - Created Ruby on Rails applications from scratch; maintaining and managing the team of freelance developers. Maintaining the user stories backlog, reviewing pull requests, deploying new features to production
